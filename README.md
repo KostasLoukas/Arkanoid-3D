@@ -8,3 +8,5 @@ Controls:
 - WASD to move your platform up, right, down and left.
 - Hold E for automatic platform movement that follows the ball's X and Y axes (cheat).
 - Press 1, 2, 3 for alternative view points of the 3D environment.
+
+![Untitled](https://user-images.githubusercontent.com/105225491/172010855-aab5f904-e325-4e1c-8750-2b08244a5b63.png)
